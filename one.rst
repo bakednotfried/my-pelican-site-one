@@ -7,6 +7,7 @@ My First Post
 :slug: my-first-post
 :author: mike cullerton
 :summary: Short version for index and feeds
+:title: My Title
 
 
 Stuff, stuff, stuff
