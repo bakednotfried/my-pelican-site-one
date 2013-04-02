@@ -2,6 +2,7 @@ My Second Post
 ##############
 
 .. |date| date::
+
 :date: |date|
 :tags: second, posts
 :category: vacation
