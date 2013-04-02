@@ -3,7 +3,7 @@ My Second Post
 
 :date: 2010-10-03 10:20
 :tags: second, posts
-:category: posts, vacation
+:category: vacation
 :slug: my-second-post
 :author: mike cullerton
 :summary: Short version for index and feeds
