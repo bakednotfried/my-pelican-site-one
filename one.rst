@@ -1,7 +1,9 @@
 My First Post
 #############
 
-:date: 2010-10-03 10:20
+.. |date| date::
+
+:date: |date|
 :tags: first, posts
 :category: posts
 :slug: my-first-post
