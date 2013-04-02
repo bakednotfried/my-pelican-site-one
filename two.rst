@@ -1,7 +1,6 @@
 My Second Post
 ##############
 
-:date: 2010-10-03 10:20
 :tags: second, posts
 :category: vacation
 :slug: my-second-post
